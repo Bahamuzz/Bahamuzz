@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bahamuzz
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning about Mail security, OSINT and 
+- 🌱 I’m currently learning about Mail security, OSINT and SOC improvement
 - 💞️ I’m looking to collaborate on projects related with cybersec, focused on how to improve a SOC
 - 📫 You can write me a DM if you interested
 - ⚡ Besides cybersec, I love to practice Calisthenics and Yoga
